@@ -23,7 +23,7 @@ def main():
   vis.top_products(top)
   vis.category_chart(categories)
   
-  print("\n📊 SALES DATA ANALYSIS REPORT")
+  print("\n📊 ARAVIND SALES DATA ANALYSIS REPORT")
   print("=" * 35)
 
   print("\n📅 Analysis Period: Jan 2024 - Dec 2024")
